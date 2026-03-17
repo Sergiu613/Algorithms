@@ -1,3 +1,4 @@
+#!/bin/bash
 # Data array
 data=(64 34 25 12 22 11 90)
 n=${#data[@]}
