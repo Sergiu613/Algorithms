@@ -11,7 +11,7 @@ Insertion Sort is a simple sorting algorithm that builds the final sorted array 
 | Language / Architecture | File Extension |
 | :--- | :--- |
 | C | `.c` |
-| C++ | `.cpp|
+| C++ | `.cpp`|
 | Python | `.py` |
 | Java | `.java` |
 | Bash | `.sh` |
