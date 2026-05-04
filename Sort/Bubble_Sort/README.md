@@ -18,3 +18,10 @@ Bubble Sort is a simple, comparison-based sorting algorithm. It works by repeate
 NOT YET
 | ARM Assembly (AArch64) | `.s` |
 | x8086 Assembly | `.asm` |
+
+## Complexity
+
+* **Worst Case Time Complexity:** $O(n^2)$ (occurs when the array is sorted in reverse order)
+* **Average Case Time Complexity:** $O(n^2)$
+* **Best Case Time Complexity:** $O(n)$ (occurs when the array is already sorted, provided the algorithm is optimized with a flag to detect swaps)
+* **Space Complexity:** $O(1)$ (In-place algorithm, as it only requires a single additional memory space for the `temp` variable)
