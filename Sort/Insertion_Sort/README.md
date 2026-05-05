@@ -15,7 +15,11 @@ Insertion Sort is a simple sorting algorithm that builds the final sorted array 
 | Python | `.py` |
 | Java | `.java` |
 | Bash | `.sh` |
-NOT YET
+
+**NOT YET**
+
+| Language / Architecture | File Extension |
+| :--- | :--- |
 | ARM Assembly (AArch64) | `.s` |
 | x86-64 Assembly | `.asm` |
 
