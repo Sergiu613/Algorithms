@@ -11,13 +11,17 @@ Bubble Sort is a simple, comparison-based sorting algorithm. It works by repeate
 | Language / Architecture | File Extension |
 | :--- | :--- |
 | C | `.c` |
-| C++ | `.cpp` |
+| C++ | `.cpp`|
 | Python | `.py` |
 | Java | `.java` |
 | Bash | `.sh` |
-NOT YET
+
+**NOT YET**
+
+| Language / Architecture | File Extension |
+| :--- | :--- |
 | ARM Assembly (AArch64) | `.s` |
-| x8086 Assembly | `.asm` |
+| x86-64 Assembly | `.asm` |
 
 ## Complexity
 
