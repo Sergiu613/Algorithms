@@ -26,7 +26,11 @@ Merge Sort is an efficient, stable, and comparison-based sorting algorithm that 
 
 ## Complexity
 
-* **Worst Case Time Complexity:** $O(n \log n)$
-* **Average Case Time Complexity:** $O(n \log n)$
-* **Best Case Time Complexity:** $O(n \log n)$
-* **Space Complexity:** $O(n)$
+* **Worst Case Time Complexity:** $O(n \log n)$  
+  The algorithm always divides the array into two halves and takes linear time to merge them, regardless of the initial order.
+* **Average Case Time Complexity:** $O(n \log n)$  
+  On average, the number of operations remains consistent due to the fixed nature of the recursive splitting and merging.
+* **Best Case Time Complexity:** $O(n \log n)$  
+  Unlike Bubble Sort or Insertion Sort, Merge Sort does not "finish early" if the array is already sorted; it still performs the full divide-and-conquer process.
+* **Space Complexity:** $O(n)$  
+  The algorithm requires additional auxiliary space to store the temporary subarrays during the merge process.
